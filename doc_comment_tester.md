@@ -31,7 +31,8 @@ cd ~/qemu
 Puis à nouveau Ctrl+Shift+T et:
 ```shell
 ssh root@10.0.2.XX
-``` où XX correspond à l'adresse de l'image qemu
+``` 
+où XX correspond à l'adresse de l'image qemu
 
 ## Copier dans la vm
 
